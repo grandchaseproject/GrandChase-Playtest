@@ -1,0 +1,27 @@
+## Files
+crashdata.dat
+crashlog.txt
+BancapConfig.ini
+bdcap32.dll
+BugTrap.dll
+D3DX9_42.dll
+DSETUP.dll
+dsetup32.dll
+dxwebsetup.exe
+FailedGameServerConnection.txt
+JoystickSettingVer2.dat
+KeySettingVer2.dat
+KncCrashRpt.dll
+OptionVer2.dat
+ResoultionSettingVer3.dat
+SSOWebDLL.dll
+unicows.dll
+xpva03.dll
+zlib1.dll
+zlibwapi.dll
+
+## Folders
+[Ff]rame[Cc]heck
+[Gg]uild[Mm]ark
+[Ll]og
+[Nn]etwork
